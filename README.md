@@ -4,6 +4,8 @@ Mikrowelle OS is a static page generator for podcast websites and feeds.
 
 Tested on Python 2.7, 3.3, 3.4 and PyPy 2.5. Will not work under Python 2.6, please update in this case. If possible, prefer Python 3.
 
+This fork tries to add a GUI to the manual episode creation step.
+
 ## Feature List
 
 * Generating podcast feeds
